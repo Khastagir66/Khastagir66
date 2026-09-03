@@ -1,3 +1,5 @@
+<img src="./2.png" alt="Profile Banner">
+
 <h1 align="center">Hi 👋, I'm Shimul Khastagir</h1>
 <h3 align="center">A passionate Web development and Ethical Hacking</h3>
 
